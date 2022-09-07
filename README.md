@@ -8,8 +8,8 @@ My name is Andrew Krause, and I am a Computer Science student at the Univeristy 
 
 Besides my academic work, I enjoy working on improving my web development skills by creating my own projects and hosting them online. I am planning on creating a simple game using Unity in the future as well as a mobile application.
 
-I am interested in Computer Science topics such as web development and cyber security. I am also interested in game design.
-Feel free to check out my repos! I have several repositories that implement different concepts in Computer Science such as web design.
+I am interested in Computer Science topics such as web development, cybersecurity, and game design.
+Feel free to check out my repos! I have different repositories that implement a variety concepts in Computer Science such as web design.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrew-ekrause&show_icons=true&theme=city_lights&count_private=true" alt="Andrew-EKrause Stats" /> &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-ekrause&show_icons=true&theme=city_lights&count_private=true&layout=compact" alt="Andrew-Krause Languages" />
 
