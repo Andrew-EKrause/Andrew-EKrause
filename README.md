@@ -4,12 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](https://www.linkedin.com/in/andrew-krause-b6aa21179/)
 [![Website](https://img.shields.io/badge/Web-Andrew-informational?style=flat-square&colorB=616161&labelColor=527C9D)](https://andrewkrause.dev)
 
-My name is Andrew Krause, and I am a Computer Science student at the Univeristy of Wisconsin - La Crosse, Wisconsin, USA. I recently completed a Software Development internship with Kwik Trip Inc. this past summer where I utilized technologies such as ASP.NET Core Blazor and Telerik. I am looking forward to more job opportunities upon graduating from college! I am expecting to graduate in December of 2022.
+My name is Andrew Krause, and I am a Computer Science student at the Univeristy of Wisconsin - La Crosse, Wisconsin, USA. I recently completed a Software Development internship with Kwik Trip Inc. this past summer of 2022 where I utilized technologies such as ASP.NET Core Blazor and Telerik. I am looking forward to more job opportunities upon graduating from college! I am expecting to graduate in December of 2022.
 
 Besides my academic work, I enjoy working on improving my web development skills by creating my own projects and hosting them online. I am planning on creating a simple game using Unity in the future as well as a mobile application.
 
 I am interested in Computer Science topics such as web development, cybersecurity, and game design.
-Feel free to check out my repos! I have different repositories that implement a variety concepts in Computer Science such as web design.
+Feel free to check out my repos! I have different repositories that implement a variety of concepts in Computer Science such as simple games, data structures, and web applications.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrew-ekrause&show_icons=true&theme=city_lights&count_private=true" alt="Andrew-EKrause Stats" /> &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-ekrause&show_icons=true&theme=city_lights&count_private=true&layout=compact" alt="Andrew-Krause Languages" />
 
