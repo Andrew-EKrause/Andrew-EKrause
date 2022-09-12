@@ -11,7 +11,7 @@ Besides my academic work, I enjoy working on improving my web development skills
 I am interested in Computer Science topics such as web development, cybersecurity, and game design.
 Feel free to check out my repos! I have different repositories that implement a variety of concepts in Computer Science such as simple games, data structures, and web applications.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrew-ekrause&show_icons=true&theme=city_lights&count_private=true" alt="Andrew-EKrause Stats" /> &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-ekrause&show_icons=true&theme=city_lights&count_private=true&layout=compact" alt="Andrew-Krause Languages" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrew-ekrause&show_icons=true&theme=react&count_private=true" alt="Andrew-EKrause Stats" /> &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-ekrause&show_icons=true&theme=react&count_private=true&layout=compact" alt="Andrew-Krause Languages" />
 
 <!--
 **Andrew-EKrause/Andrew-EKrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
