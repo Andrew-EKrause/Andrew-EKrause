@@ -1,5 +1,7 @@
 # Welcome to my GitHub!
 
+<p align="center"><a href="https://andrewkrause.dev/"><img width="80%" alt="Visit my website!" src="./assets/ak-brand-header.png" /></a></p>
+
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/andrew-ekrause)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](https://www.linkedin.com/in/andrew-krause-b6aa21179/)
 [![Website](https://img.shields.io/badge/Web-Andrew-informational?style=flat-square&colorB=616161&labelColor=527C9D)](https://andrewkrause.dev)
