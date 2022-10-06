@@ -4,8 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](https://www.linkedin.com/in/andrew-krause-b6aa21179/)
 [![Website](https://img.shields.io/badge/Web-Andrew-informational?style=flat-square&colorB=616161&labelColor=527C9D)](https://andrewkrause.dev)
-[![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/andrew-ekrause)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-informational?style=flat-square&logo=stackoverflow&logoColor=orange&colorB=616161&labelColor=white)](https://meta.stackoverflow.com/users/20171010/andrew-krause)
+[![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/andrew-ekrause)
 
 My name is Andrew Krause, and I am a Computer Science student at the Univeristy of Wisconsin - La Crosse, Wisconsin, USA. I recently completed a Software Development internship with Kwik Trip Inc. this past summer of 2022 where I utilized technologies such as ASP.NET Core Blazor and Telerik. I am looking forward to more job opportunities upon graduating from college! I am expecting to graduate in December of 2022.
 
