@@ -7,7 +7,7 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-informational?style=flat-square&logo=stackoverflow&logoColor=orange&colorB=616161&labelColor=white)](https://meta.stackoverflow.com/users/20171010/andrew-krause)
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/andrew-ekrause)
 
-My name is Andrew Krause, and I am a Computer Science student at the Univeristy of Wisconsin - La Crosse, Wisconsin, USA. I recently completed a Software Development internship with Kwik Trip Inc. this past summer of 2022 where I utilized technologies such as ASP.NET Core Blazor and Telerik. I am looking forward to more job opportunities upon graduating from college! I am expecting to graduate in December of 2022.
+My name is Andrew Krause, and I am a Computer Science student at the Univeristy of Wisconsin - La Crosse, Wisconsin, USA. I recently completed a Software Development internship with Kwik Trip Inc. this past summer of 2022. In my internship, I utilized technologies such as ASP.NET Core Blazor and Telerik. I am looking forward to more job opportunities upon graduating from college! I am expecting to graduate in December of 2022.
 
 Besides my academic work, I enjoy working on improving my web development skills by creating my own projects and hosting them online. For future projects, I am planning on creating a simple game using Unity as well as making a mobile application.
 
