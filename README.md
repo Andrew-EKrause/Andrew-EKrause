@@ -14,11 +14,8 @@ Besides my academic work, I enjoy working on improving my web development skills
 My main areas of interest in Computer Science include: Web development, cybersecurity, and game design.
 Feel free to check out my repos! I have different repositories that implement a variety of concepts in Computer Science such as simple games, data structures, and web applications.
 
-<!-- THE CODE DIRECTLY BELOW IS TEMPORARY. REMOVE THE CODE DIRECTLY BELOW AFTER THE REACT COLOR THEME IS FIXED -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrew-ekrause&show_icons=true&theme=city_lights&count_private=true" alt="Andrew-EKrause Stats" /> 
-<!-- KEEP THE CODE COMMENTED OUT BELOW UNTIL THE REACT COLOR THEME IS FIXED. UNCOMMENT AFTER THE REACT COLOR THEME IS FIXED -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrew-ekrause&show_icons=true&theme=react&count_private=true" alt="Andrew-EKrause Stats" />  -->
-&nbsp;&nbsp;&nbsp; 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrew-ekrause&show_icons=true&theme=react&count_private=true" alt="Andrew-EKrause Stats" /> 
+&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-ekrause&show_icons=true&theme=react&count_private=true&layout=compact" alt="Andrew-Krause Languages" />
 
 <!--
