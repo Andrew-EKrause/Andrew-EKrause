@@ -7,7 +7,7 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-informational?style=flat-square&logo=stackoverflow&logoColor=orange&colorB=616161&labelColor=black)](https://meta.stackoverflow.com/users/20171010/andrew-krause)
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/Andrew-EKrause?tab=repositories)
 
-My name is Andrew Krause, and I am a Software Developer who recently graduated with my bachelor's degree from the Univeristy of Wisconsin - La Crosse, Wisconsin, USA. I currently work as a Software Developer 1 for Kwik Trip, Inc. [See more on Kwik Trip here](https://www.kwiktrip.com/). In my occupation, I utilize technologies such as ASP.NET Core Blazor and Telerik. I am looking forward to building my career with Kwik Trip and exploring all the opportunities they offer! I am also looking into freelance web development as a side-hustle.
+My name is Andrew Krause, and I am a Software Developer who recently graduated with my bachelor's degree from the Univeristy of Wisconsin - La Crosse, Wisconsin, USA. I currently work as a Software Developer 1 for Kwik Trip, Inc. In my occupation, I utilize technologies such as ASP.NET Core Blazor and Telerik. I am looking forward to building my career with Kwik Trip and exploring all the opportunities they offer! I am also looking into freelance web development as a side-hustle.
 
 Besides my occupational work, I enjoy working on improving my web development skills by creating my own projects and hosting them online. For future projects, I am planning on creating a simple game using Unity as well as making a mobile application.
 
