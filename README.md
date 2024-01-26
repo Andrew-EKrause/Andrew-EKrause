@@ -22,7 +22,7 @@ Feel free to check out my repos! I have different repositories that implement a 
 
 ## Links to My Websites ##
 
-- [**Personal Portfolio/Webpage**](https://andrewkrause.dev/) - Current Personal Website - Public Repo
+- [**Personal Portfolio Webpage**](https://andrewkrause.dev/) - Current Personal Website - Public Repo
 - [**Travel Blog Web Application**](https://www.travelblog.social/) - Personal Project - Private Repo --> In Progress 
 - [**CS 364 Mayo Clinic PCM Web Application**](https://patient-care-manager.herokuapp.com/) - College Project - Public Repo
 - [**CS 341 Team Aptiv Web Application**](https://team-aptiv-project.herokuapp.com/) - College Project - Public Repo
