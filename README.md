@@ -20,7 +20,7 @@ Feel free to check out my repos! I have different repositories that implement a 
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-ekrause&show_icons=true&theme=react&count_private=true&layout=compact" alt="Andrew-Krause Languages" />
 
-## My Web Applications (See my repositories for more details) ##
+## Links to My Websites ##
 
 - [**Personal Portfolio/Webpage**](https://andrewkrause.dev/) - Current Personal Website - Public Repo
 - [**Travel Blog Website**](https://www.travelblog.social/) - Personal Project - Private Repo --> In Progress 
