@@ -31,8 +31,8 @@ Feel free to check out my repos! I have different repositories that implement a 
 - [**To-Do List Webpage**](https://fast-wildwood-74587.herokuapp.com/) - Personal Project - Public Repo
 - [**Newsletter Sign-up Webpage**](https://obscure-lake-09145.herokuapp.com/) - Personal Project - Public Repo
 - [**App Promotion Webpage**](https://andrew-ekrause.github.io/HabitHelper-Promotional-Webpage/) - Personal Project - Public Repo
-- [**CV**](https://andrew-ekrause.github.io/Curriculum-Vitae/) - First Website Ever - Public Repo
 - [**Personal Webpage**](https://andrew-ekrause.github.io/Personal-Webpage/) - Second Website Ever - Public Repo
+- [**CV**](https://andrew-ekrause.github.io/Curriculum-Vitae/) - First Website Ever - Public Repo
 
 <!--
 **Andrew-EKrause/Andrew-EKrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
