@@ -18,6 +18,8 @@ Feel free to check out my repos! I have different repositories that implement a 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrew-ekrause&show_icons=true&theme=react&count_private=true" alt="Andrew-EKrause Stats" /> 
 &nbsp;&nbsp;&nbsp;
 -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andrew-ekrause&show_icons=true&theme=react&count_private=true&hide_rank=true&hide=contribs" alt="Dakota-Kallas Stats" /> 
+&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-ekrause&show_icons=true&theme=react&count_private=true&layout=compact" alt="Andrew-Krause Languages" />
 
 ## Links to My Websites ##
