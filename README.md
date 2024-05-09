@@ -24,17 +24,17 @@ Feel free to check out my repos! I have different repositories that implement a 
 
 ## Links to My Websites ##
 
-- [**Personal Portfolio Webpage**](https://andrewkrause.dev/) - Current Personal Website - Public Repo
-- [**Travel Blog Web Application**](https://www.travelblog.social/) - Personal Project - Private Repo --> In Progress 
-- [**CS 364 Mayo Clinic PCM Web Application**](https://patient-care-manager.herokuapp.com/) - College Project - Public Repo
-- [**CS 341 Team Aptiv Web Application**](https://team-aptiv-project.herokuapp.com/) - College Project - Public Repo
-- ~~[**CS 224 Trails Web Application**](https://park-finder-project.herokuapp.com/)~~ - College Project - Public Repo --> Need to Fix
-- [**Riverside Burger Bash Restaurant Webpage**](https://andrew-ekrause.github.io/RBB-Restaurant-Webpage/) - College Project - Public Repo
-- [**To-Do List Webpage**](https://fast-wildwood-74587.herokuapp.com/) - Personal Project - Public Repo
-- [**Newsletter Sign-up Webpage**](https://obscure-lake-09145.herokuapp.com/) - Personal Project - Public Repo
-- [**App Promotion Webpage**](https://andrew-ekrause.github.io/HabitHelper-Promotional-Webpage/) - Personal Project - Public Repo
-- [**Personal Webpage**](https://andrew-ekrause.github.io/Personal-Webpage/) - Second Website Ever - Public Repo
-- [**CV Webpage**](https://andrew-ekrause.github.io/Curriculum-Vitae/) - First Website Ever - Public Repo
+- [**Personal Portfolio Webpage**](https://andrewkrause.dev/) - Current Personal Website - **Public Repo**
+- [**Travel Blog Web Application**](https://www.travelblog.social/) - Personal Project - **Private Repo** --> In Progress 
+- [**CS 364 Mayo Clinic PCM Web Application**](https://patient-care-manager.herokuapp.com/) - College Project - **Public Repo**
+- [**CS 341 Team Aptiv Web Application**](https://team-aptiv-project.herokuapp.com/) - College Project - **Public Repo**
+- ~~[**CS 224 Trails Web Application**](https://park-finder-project.herokuapp.com/)~~ - College Project - **Public Repo** --> Need to Fix
+- [**Riverside Burger Bash Restaurant Webpage**](https://andrew-ekrause.github.io/RBB-Restaurant-Webpage/) - College Project - **Public Repo**
+- [**To-Do List Webpage**](https://fast-wildwood-74587.herokuapp.com/) - Personal Project - **Public Repo**
+- [**Newsletter Sign-up Webpage**](https://obscure-lake-09145.herokuapp.com/) - Personal Project - **Public Repo**
+- [**App Promotion Webpage**](https://andrew-ekrause.github.io/HabitHelper-Promotional-Webpage/) - Personal Project - **Public Repo**
+- [**Personal Webpage**](https://andrew-ekrause.github.io/Personal-Webpage/) - Second Website Ever - **Public Repo**
+- [**CV Webpage**](https://andrew-ekrause.github.io/Curriculum-Vitae/) - First Website Ever - **Public Repo**
 
 <!--
 **Andrew-EKrause/Andrew-EKrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
