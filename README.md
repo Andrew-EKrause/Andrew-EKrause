@@ -2,6 +2,7 @@
 
 <p align="center"><a href="https://andrewkrause.dev/"><img width="30%" alt="Visit my website!" src="./assetts/KrauseMonologoCircle.png" /></a></p>
 
+[![Gravatar](https://img.shields.io/badge/-Gravatar-informational?style=flat-square&logo=gravatar&logoColor=0072b1&colorB=616161&labelColor=black)](https://gravatar.com/aekkrause)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](https://www.linkedin.com/in/andrew-krause-b6aa21179/)
 [![Website](https://img.shields.io/badge/Web-Andrew-informational?style=flat-square&colorB=616161&labelColor=7CFC00)](https://andrewkrause.dev)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-informational?style=flat-square&logo=stackoverflow&logoColor=orange&colorB=616161&labelColor=black)](https://meta.stackoverflow.com/users/20171010/andrew-krause)
