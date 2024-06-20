@@ -31,7 +31,6 @@ Feel free to check out my repos! I have different repositories that implement a 
 - [**CS 341 Team Aptiv Web Application**](https://team-aptiv-project.herokuapp.com/) - College Project - **Public Repo**
 - [**CS 224 Park Finder Web Application**](https://park-finder-project.herokuapp.com/) - College Project - **Public Repo**
 - [**Riverside Burger Bash Restaurant Webpage**](https://andrew-ekrause.github.io/RBB-Restaurant-Webpage/) - College Project - **Public Repo**
-- [**To-Do List Webpage**](https://fast-wildwood-74587.herokuapp.com/) - Personal Project - **Public Repo**
 - [**Newsletter Sign-up Webpage**](https://obscure-lake-09145.herokuapp.com/) - Personal Project - **Public Repo**
 - [**App Promotion Webpage**](https://andrew-ekrause.github.io/HabitHelper-Promotional-Webpage/) - Personal Project - **Public Repo**
 - [**Old Personal Webpage**](https://andrew-ekrause.github.io/Personal-Webpage/) - Second Website Ever - **Public Repo**
