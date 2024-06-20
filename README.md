@@ -29,7 +29,7 @@ Feel free to check out my repos! I have different repositories that implement a 
 - [**Travel Blog Web Application**](https://www.travelblog.social/) - Personal Project - **Private Repo** --> In Progress 
 - [**CS 364 Mayo Clinic PCM Web Application**](https://patient-care-manager.herokuapp.com/) - College Project - **Public Repo**
 - [**CS 341 Team Aptiv Web Application**](https://team-aptiv-project.herokuapp.com/) - College Project - **Public Repo**
-- ~~[**CS 224 Trails Web Application**](https://park-finder-project.herokuapp.com/)~~ - College Project - **Public Repo** --> Need to Fix
+- [**CS 224 Trails Web Application**](https://park-finder-project.herokuapp.com/) - College Project - **Public Repo**
 - [**Riverside Burger Bash Restaurant Webpage**](https://andrew-ekrause.github.io/RBB-Restaurant-Webpage/) - College Project - **Public Repo**
 - [**To-Do List Webpage**](https://fast-wildwood-74587.herokuapp.com/) - Personal Project - **Public Repo**
 - [**Newsletter Sign-up Webpage**](https://obscure-lake-09145.herokuapp.com/) - Personal Project - **Public Repo**
